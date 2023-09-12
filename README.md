@@ -37,4 +37,4 @@ To run this application, you need to have the following:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/CaesarCipherGUI.git
+   git clone https://github.com/AbhishekNair1289/CaesarCipher_Text_Encryption.git
